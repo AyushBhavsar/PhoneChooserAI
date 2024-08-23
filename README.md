@@ -69,5 +69,5 @@ You are free to contribute.
 ## Snaps
 
 ![Screenshot 1 of the application](assets/ss1.png)
-![Screenshot 2 of the application](assets/ss1.png)
+![Screenshot 2 of the application](assets/ss2.png)
 
