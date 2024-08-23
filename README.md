@@ -61,7 +61,7 @@ Contains utility functions such as `generate_prompt` to create the query prompt 
 
 Handles the interaction with the Groq API, encapsulating the logic for making requests and processing responses.
 
-## Contribute
+## Contribution
 
 You are free to contribute.
 
