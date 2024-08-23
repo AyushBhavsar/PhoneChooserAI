@@ -66,3 +66,8 @@ Handles the interaction with the Groq API, encapsulating the logic for making re
 You are free to contribute.
 
 
+## My Project
+
+![Screenshot 1 of the application](assets/ss1.png)
+![Screenshot 2 of the application](assets/ss1.png)
+
