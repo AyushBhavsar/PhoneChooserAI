@@ -14,7 +14,7 @@ class QueryResponse(Model):
 #     return os.getenv('groq_api_key')
 
 def get_groq_api_key():
-    return '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'
+    return 'your_API_KEY_goes_here'
 
    
 
